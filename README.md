@@ -1,5 +1,5 @@
-# IOT_karthik
-Hi Everyone my name is Karthik Gorantla
+# IOT_karthiek
+Hi Everyone my name is Karthiek Gorantla
 
 # MOTIVATION 
 
