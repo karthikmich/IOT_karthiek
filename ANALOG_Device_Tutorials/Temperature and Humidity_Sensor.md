@@ -49,11 +49,27 @@ Here the DHT11 sensor senses the tempearature and humidity in the surroundings a
 
 ## Installing Git-core
 
+
 Install the git by entering the below command:
 
               sudo apt-get install git-core
               
               
+              
+              
+              
+              
+              
+              
+ <img width="506" alt="git-clone" src="https://user-images.githubusercontent.com/112646644/193497886-4a8072ec-dedc-4b8c-987b-9e10eb6b73a8.png">
+             
+
+              
+    
+    
+    
+    
+    
  We update the upgrade the PI using these commands:
  
              sudo apt-get update
