@@ -8,7 +8,7 @@ Here we use the DHT11 sensor to record the Temperature and Humidity.
 2. Raspberry PI 4
 3. Wires
 4. 10k ohm's resistor
-5. Breadboad
+5. Breadboard
 6. Router
 
 
