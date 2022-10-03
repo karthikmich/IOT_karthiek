@@ -14,7 +14,7 @@ Here we use the DHT11 sensor to record the Temperature and Humidity.
 
 # Operation of accessing data of the analog device
 
-Here the DHT11 sensor senses the tempearature and humidity in the surroundings and the data is processed in the backend(machine) and outputs the temperature in Celsius.
+Here the DHT11 sensor senses the tempearature and humidity in the surroundings and the data is processed in the backend(machine) and outputs the temperature in Celsius or Fahrenheit.
 
 # Circuit Diagram
 
