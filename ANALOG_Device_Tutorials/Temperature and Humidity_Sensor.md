@@ -39,7 +39,7 @@ Here the DHT11 sensor senses the tempearature and humidity in the surroundings a
 
 # Connections:
 
-1. Connect pin-1 in DHT11 is Vcc, we connect it to the 5v pin on the PI.
+1. Connect pin-1 in DHT11 which is Vcc, we connect it to the 5v pin on the PI.
 2. pin-2 is the Signal, we connect it to the GPIO for output.
 3. pin-4 is the ground connect it to the ground on the PI.
 
