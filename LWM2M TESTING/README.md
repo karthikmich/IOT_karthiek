@@ -49,4 +49,4 @@ Test the Leshan server
                  
                  
                  java -jar leshan-client-demo/target/leshan-client-demo-*-SNAPSHOT-jar-with-dependencies.jar
-Screen Shot 2022-09-15 at 8 21 59 PM
+
